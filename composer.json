@@ -1,12 +1,15 @@
 {
-    "name": "delormejonathan/laravel-js-routing",
-    "description": "Laravel 4 package to access Routing from Javascript",
+    "name": "septagram/laravel-js-routing",
+    "description": "Laravel 5 package to access Routing from Javascript",
     "license": "MIT",
     "keywords": ["laravel", "routing"],
     "authors": [
         {
             "name": "Jonathan DELORME",
             "email": "delorme.jonathan@gmail.com"
+        }, {
+            "name": "Igor Novikov",
+            "email": "septagramm@gmail.com"
         }
     ],
     "require": {
